@@ -1,0 +1,7 @@
+C:\Projetos\Trabalho 1 - Grafos\Trabalho 1 - Grafos\bin\Debug\Trabalho 1 - Grafos.exe.config
+C:\Projetos\Trabalho 1 - Grafos\Trabalho 1 - Grafos\bin\Debug\Trabalho 1 - Grafos.exe
+C:\Projetos\Trabalho 1 - Grafos\Trabalho 1 - Grafos\bin\Debug\Trabalho 1 - Grafos.pdb
+C:\Projetos\Trabalho 1 - Grafos\Trabalho 1 - Grafos\obj\Debug\Trabalho 1 - Grafos.csprojAssemblyReference.cache
+C:\Projetos\Trabalho 1 - Grafos\Trabalho 1 - Grafos\obj\Debug\Trabalho 1 - Grafos.csproj.CoreCompileInputs.cache
+C:\Projetos\Trabalho 1 - Grafos\Trabalho 1 - Grafos\obj\Debug\Trabalho 1 - Grafos.exe
+C:\Projetos\Trabalho 1 - Grafos\Trabalho 1 - Grafos\obj\Debug\Trabalho 1 - Grafos.pdb
